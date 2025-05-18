@@ -1,1 +1,2 @@
-Deployed Link - https://inotebookbyyash.netlify.app/login
+Deployed Link - https://inotebookbyyash.netlify.app
+
